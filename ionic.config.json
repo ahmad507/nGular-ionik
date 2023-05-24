@@ -1,0 +1,7 @@
+{
+  "name": "abb-id-pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
